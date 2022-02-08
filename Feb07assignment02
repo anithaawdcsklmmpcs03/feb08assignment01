@@ -1,0 +1,3 @@
+km=int(input ('enter kilometers value'))
+cm=km*100000
+print ('kilometers converted inyo centimeters is',cm)
